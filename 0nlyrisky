@@ -9,7 +9,7 @@
     }
   ],
   "plus": {
-       "version": 0,
+       "version": 1,
        "mentionLineColor": "#ffffff",
        "iconpack": "rosiecord-plumpy"
   },
